@@ -1,0 +1,15 @@
+
+
+
+
+命令
+npm run build
+npm run dev
+
+
+1.根目录下执行命令
+npm run dev
+2.浏览器直接访问:
+http://localhost:8181/index.html
+
+
